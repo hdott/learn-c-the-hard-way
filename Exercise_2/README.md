@@ -1,6 +1,6 @@
 # Exercise 2 - Using Makefiles to Build
 
-This exercise shows how to create a _makefile_ file and provides the basic steps the tools takes when using `make _fileName_`
+This exercise shows how to create a _makefile_ file and provides the basic steps the tools takes when using `make fileName`
 
 ## Notes:
 
