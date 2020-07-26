@@ -4,12 +4,12 @@
 ## List of C Operators
 
 ### Arithmetic Operators
-Operator | Description
+Description | Operator 
 ---------|-------------
- add  | +
-- | Substract
-* | Multiply
-/ | Divide
-% | Modulus
-++ | Increment
--- | Decrement
+Add | +
+Substract | - 
+Multiply | * 
+Divide | / 
+Modulus | %
+Increment | ++
+Decrement | --
