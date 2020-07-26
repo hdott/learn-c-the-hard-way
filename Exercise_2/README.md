@@ -1,4 +1,11 @@
 # Exercise 2 - Using Makefiles to Build
+```makefile
+CFLAGS=-Wall -g
+
+
+clean:
+	rm -f ex1
+```
 
 This exercise shows how to create a _makefile_ file and provides the basic steps the tool takes when using `make fileName`
 
@@ -12,4 +19,3 @@ This exercise shows how to create a _makefile_ file and provides the basic steps
 5. I shall make you one _ex1_ by using _cc_ to build it from _ex1.c_.
 
 - `CFLAGS="-Wall" make ex1` > tells the compiler _cc_ to report all warnings
-
