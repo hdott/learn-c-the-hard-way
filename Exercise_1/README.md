@@ -15,4 +15,4 @@ int main(int argc, char *argv[]){
 	return 0;
 }
 ```
-This exercise provides the structure of a C program file and how to compile using 'make'.
+> This exercise provides the structure of a C program file and how to compile using 'make'.

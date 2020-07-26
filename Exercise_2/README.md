@@ -7,7 +7,7 @@ clean:
 	rm -f ex1
 ```
 
-This exercise shows how to create a _makefile_ file and provides the basic steps the tool takes when using `make fileName`
+> This exercise shows how to create a _makefile_ file and provides the basic steps the tool takes when using `make fileName`
 
 ## Notes:
 
