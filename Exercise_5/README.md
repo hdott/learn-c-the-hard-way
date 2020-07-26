@@ -4,9 +4,9 @@
 ## List of C Operators
 
 ### Arithmetic Operators
-Description | Operator 
----------|-------------
-Add | +
+|Description | Operator |
+|---------|-------------|
+| + | And |
 Substract | - 
 Multiply | * 
 Divide | / 
