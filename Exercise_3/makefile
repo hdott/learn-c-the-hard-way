@@ -1,9 +1,6 @@
-all:
-	ex3
-
+all: clean ex3
 
 CFLAGS=-Wall -g
-
 
 
 clean:
