@@ -44,6 +44,7 @@ Bitwise Shift Right | >>
 
 ### Assignement Operators
 > C combines a number of operators with the assignment operators. For example `x += y` translates to `x = x + y`
+
 Description | Operator 
 ---------|-------------
 Assignment | = 
