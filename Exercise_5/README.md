@@ -6,7 +6,7 @@
 ### Arithmetic Operators
 Operator | Description
 ---------|-------------
- +  | Add
+ add  | +
 - | Substract
 * | Multiply
 / | Divide
