@@ -2,6 +2,14 @@
 > Shows the C operators.
 
 ## List of C Operators
-|Arithmetic Op|
+
+### Arithmetic Operators
 |Operator|Description|
 |--------|-----------|
+| + | Add |
+|-|Substract|
+|*|Multiply|
+|/|Divide|
+|%|Modulus|
+|++|Increment|
+|--|Decrement|
