@@ -28,7 +28,7 @@
 |Operator|Description|
 |--------|-----------|
 |&&|Logical And|
-||||Logical Or|
+| \|\| |Logical Or|
 |!|Logical Not|
 |? :|Logical Ternary|
 
