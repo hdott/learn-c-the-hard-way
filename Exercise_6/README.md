@@ -3,6 +3,7 @@
 
 ## Keywords
 |Operator|Description|
+|--------|-----------|
 |auto|give a local variable a local lifetime|
 |break|exit out of a compound statement|
 |case|a branch in a switch-statement|
